@@ -126,5 +126,7 @@ int main() {
 		system("CLS");
 	}
 
+	cout << "***************\nTHANK YOU FOR PLAYING!!\n***************\n\n";
+
 	return 0;
 }

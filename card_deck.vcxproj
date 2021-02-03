@@ -142,7 +142,6 @@
     <ClInclude Include="card.h" />
     <ClInclude Include="deck.h" />
     <ClInclude Include="player.h" />
-    <ClInclude Include="suit.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="card_deck_driver.cpp" />
