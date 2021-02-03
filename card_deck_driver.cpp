@@ -128,5 +128,7 @@ int main() {
 
 	cout << "***************\nTHANK YOU FOR PLAYING!!\n***************\n\n";
 
+	system("pause");
+
 	return 0;
 }
