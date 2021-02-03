@@ -1,0 +1,4 @@
+﻿  card_deck_driver.cpp
+C:\Users\johna\source\repos\card_deck\card_deck_driver.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\johna\source\repos\card_deck\card.h(60): warning C4715: 'Card::get_card_name': not all control paths return a value
+  card_deck.vcxproj -> C:\Users\johna\source\repos\card_deck\Debug\card_deck.exe

@@ -1,0 +1,2 @@
+C:\Users\johna\source\repos\card_deck\Debug\card_deck.exe
+C:\Users\johna\source\repos\card_deck\Debug\card_deck.pdb
